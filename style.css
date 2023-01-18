@@ -69,11 +69,13 @@ img {
 .email::placeholder {
     font-weight: 250;
     font-size: 20px;
+    padding: 0 0 0 10px;
 }
 
 .password::placeholder {
     font-weight: 250;
     font-size: 20px;
+    padding: 0 0 0 10px;
 }
 
 input {
